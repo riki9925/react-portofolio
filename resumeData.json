@@ -1,0 +1,160 @@
+{
+  "main": {
+    "name":"Ricky Setiyo Pambudi",
+    "occupation":"",
+    "description":"Im a FullStack Developer Web And Mobile",
+    "image":"p.jpeg",
+    "bio":"Im a FullStack Developer Web And Mobile",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "Setiyoriki589@gmail.com",
+    "phone": "0815-5457-9425",
+    "address":{
+      "street":"Widodaren Walikukun",
+      "city":"Ngawi",
+      "state":"Widodaren",
+      "zip": "63256"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/riki.setya.581",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"setiyoriki589@gmail.com",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/riki-setiyo-pambudi-462248146/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/ricisetya/?hl=id",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/riki9925",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Im A FullStack Developer",
+    "education":[
+      {
+        "school":"SMK ISLAMIYAH WIDODAREN",
+        "degree":"RPL (REKAYASA PERANGKAT LUNAK)",
+        "graduated":"",
+        "description":"Dari Sini Saya Belajar Memahami Bahasa Pemograman."
+      },
+      {
+        "school":"ARKADEMY BOOTCAMP",
+        "degree":"FullStack Study",
+        "graduated":"",
+        "description":"Disini Saya belajar memahami framwork Javascript ."
+      }
+    ],
+    "work":[
+      {
+        "company":"Aplikasi Koperasi",
+        "title":"Beckend Developer  ",
+        "years":"",
+        "description":"Disini Saya Berperan Dalam pengolahan data Dan pembuatan Rest Api Dengan NOdejs And Database Mysql."
+      },
+      {
+        "company":"Ecommerce",
+        "title":"FullStack Developer  ",
+        "years":"",
+        "description":"Disini Saya Berperan Dalam Pembuatan Aplikasi Ecommerce."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"50%"
+      },
+      {
+        "name":"PHP",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"50%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"Mysql",
+        "level":"80%"
+      },
+      {
+        "name":"MongoDb",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Admin Created By Angular 6",
+        "category":"Admin untuk Ecommerce",
+        "image":"p1.png",
+        "url":"#"
+      },
+      {
+        "title":"Instagram Clone React Native",
+        "category":"Sosial Media",
+        "image":"p2.jpg",
+        "url":"#"
+      },
+      {
+        "title":"My resume Make Vue",
+        "category":"My Resume make Vue Js",
+        "image":"a.png",
+        "url":"#"
+      },
+      {
+        "title":"Klinik Aplikasi",
+        "category":"Aplikasi Klinik Dengan PHP",
+        "image":"q.png",
+        "url":"#"
+      },
+      {
+        "title":"Ecommerce",
+        "category":"Ecommerce",
+        "image":"e.png",
+        "url":"#"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+    ]
+  }
+}
